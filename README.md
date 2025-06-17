@@ -43,3 +43,7 @@ This file is the metadata blueprint of the extension. It defines how the extensi
 "permissions": Requests necessary permissions like access to tabs, browsing history, and storage.
 
 "icons": Links to the visual assets used in the extension toolbar and Chrome extension management UI.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/2a41adbc-764e-4779-a0c3-a909bf6880e2)
